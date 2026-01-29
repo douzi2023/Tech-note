@@ -1,0 +1,3 @@
+使用https://github.com/douzi2023/LinkSwift里的插件转到motrix：https://motrix.app/download下载
+用了v2rayn好像只能跑到500kb/s，不用好像能跑到10m/s，但有次不开也只有低速
+倘若下一半链接失效就重新获取来下载，删下载记录不删文件即可
